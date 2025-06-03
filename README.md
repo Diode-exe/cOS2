@@ -2,9 +2,12 @@ BUILDING
 
 Dependency installation (Ubuntu and Debian):
 sudo apt update
+
 sudo apt install nasm grub-pc-bin grub-common xorriso mtools \
                  gcc-multilib g++-multilib qemu \
                  binutils-i686-linux-gnu g++-i686-linux-gnu
+
+                
 
 sudo chmod +x build.sh
 ./build.sh
