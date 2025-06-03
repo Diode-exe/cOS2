@@ -1,6 +1,7 @@
 BUILDING
 
 Dependency installation (Ubuntu and Debian):
+
 sudo apt update
 
 sudo apt install nasm grub-pc-bin grub-common xorriso mtools
